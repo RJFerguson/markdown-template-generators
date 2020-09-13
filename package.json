@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "run-gulp": "gulp"
+  },
   "keywords": [],
   "author": "Ryan Ferguson",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
