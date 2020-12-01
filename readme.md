@@ -1,4 +1,4 @@
-An example on how to create a simple markdown file generator, specificially for new blog pages as outlined here: [https://rjferguson.github.io/posts/generating-markdown-post-templates](https://rjferguson.github.io/posts/generating-markdown-post-templates)
+An example on how to create a simple markdown file generator, specificially for new blog pages as outlined here: [https://rjferguson.github.io/posts/generating-markdown-post-templates](https://rferg.io/posts/generating-markdown-post-templates)
 
 To generate a new-post, run the following command:
 
